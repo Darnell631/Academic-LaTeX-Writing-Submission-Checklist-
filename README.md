@@ -105,12 +105,24 @@ This checklist is designed to help you systematically prepare and polish academi
 
 ---
 
+
+## 💬 Contact & Contribution
+
+🤝 Feel free to open a PR or Issue to add extra details, diagram templates, or common reviewer tips.  
+📧 For questions or to discuss writing experience, please reach out via Issues or Discussions.
+
+---
+
 ## ✅ Final Checks Before Submission
 
 - [ ] ✅ All `\label{}` and `\ref{}` resolved (no "??").
 - [ ] ✅ PDF metadata cleared (no personal info).
 - [ ] ✅ Full spell-check (use Grammarly or LanguageTool).
 - [ ] ✅ Page limits strictly followed (including appendix).
+
+---
+
+![footer](https://img.shields.io/badge/Good%20Luck%20%26%20Happy%20Writing-💪🎓-brightgreen?style=flat-square)
 
 ---
 
