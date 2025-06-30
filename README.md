@@ -126,4 +126,4 @@ This checklist is designed to help you systematically prepare and polish academi
 
 ---
 
-⭐ For the **Chinese version**, please refer to [README-ZH](README-ZH.md).
+⭐ For the **Chinese version**, please refer to [README-zh](https://github.com/Luoyadan/Academic-LaTeX-Writing-Submission-Checklist-/blob/main/README-zh.md).
