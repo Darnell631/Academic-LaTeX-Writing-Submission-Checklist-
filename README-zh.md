@@ -70,14 +70,20 @@
 ### 🎨 调色方案
 
 - [ ] ✅ **图表颜色**：为自己的方法选择明亮、突出的颜色
-- ![image.png](image.png)
-- ![image.png](image%201.png)
-- ![image.png](image%202.png)
-- ![image.png](image%203.png)
+<p align="center">
+  <img src="image.png" alt="示例图 1" width="200"/>
+  <img src="image%201.png" alt="示例图 2" width="200"/>
+  <img src="image%202.png" alt="示例图 3" width="200"/>
+  <img src="image%203.png" alt="示例图 4" width="200"/>
+</p>
+
 - [ ] ✅ **流程图颜色**：注意色盲友好（避免纯红-绿对比）
-- ![image.png](image%204.png)
-- ![image.png](image%205.png)
-- ![image.png](image%206.png)
+<p align="center">
+  <img src="image%204.png" alt="流程图示例 1" width="200"/>
+  <img src="image%205.png" alt="流程图示例 2" width="200"/>
+  <img src="image%206.png" alt="流程图示例 3" width="200"/>
+</p>
+
 - [ ] ✅ **最终检查**：方法名一致、拼写无误、补充必要的小图例解释
 
 ### 📊 图表
